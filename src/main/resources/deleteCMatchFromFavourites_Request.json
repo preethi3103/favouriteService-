@@ -1,0 +1,7 @@
+// Ensure DELTE HTTP Request Method is chosen on Postman
+//http://localhost:8081/api/v1/cmatchservice/user/KusumaMuppasani/cmatch
+{
+    "pid": 1003,
+    "fullName":"SaiLakshmi Muppasani",
+    "name":"Sai Lakshmi"
+}

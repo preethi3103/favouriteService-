@@ -1,0 +1,7 @@
+// http://localhost:8081/api/v1/cmatchservice/user/KusumaMuppasani/cmatches
+// Ensure GET HTTPRequest Method is choseon on Postman
+{
+    "pid": 1003,
+    "fullName":"SaiLakshmi Muppasani",
+    "name":"Sai Lakshmi"
+}

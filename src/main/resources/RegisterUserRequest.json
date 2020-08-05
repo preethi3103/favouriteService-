@@ -1,0 +1,11 @@
+//http://localhost:8081/api/v1/cmatchservice/register
+{
+    "userName":"KusumaMuppasani",
+    "email":"preethi.muppasani@gmail.com",
+    "matchList":[{
+        "pid": 1001,
+        "fullName":"Muppasani",
+        "name":"Kusuma Preethi"
+    }],
+    "password":"password123"
+}

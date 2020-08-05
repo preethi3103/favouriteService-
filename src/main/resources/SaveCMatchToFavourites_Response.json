@@ -1,0 +1,17 @@
+{
+    "userName": "KusumaMuppasani",
+    "email": "preethi.muppasani@gmail.com",
+    "matchList": [
+        {
+            "pid": 1001,
+            "fullName": "Muppasani",
+            "name": "Kusuma Preethi"
+        },
+        {
+            "pid": 1003,
+            "fullName": "SaiLakshmi Muppasani",
+            "name": "Sai Lakshmi"
+        }
+    ],
+    "password": "password123"
+}
